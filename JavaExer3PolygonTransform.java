@@ -2,8 +2,9 @@
  *  Compilation:  javac PolygonTransform.java
  *  Execution:    java PolygonTransform
  *
- *  @author:Jing 
- *
+ *  @author:Jing Yang
+ *  Description: Have to instill input and output library first https://rutgers.app.box.com/s/jhfwhsmmujdq7ylistpzd327tr5ijda0 
+ *  Understanding the concept of array and loops in java
  *************************************************************************/
 
 public class PolygonTransform {
